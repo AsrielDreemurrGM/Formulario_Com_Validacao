@@ -47,5 +47,20 @@ button:hover, input:focus {
 
 .msg-erro {
     display: none;
+    color: white;
+    font-weight: bold;
     background-color: red;
+    margin: 2px;
+}
+
+p {
+    text-align: center;
+}
+
+.msg-acerto {
+    display: none;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    margin: 2px;
 }
